@@ -35,9 +35,9 @@ const NAV_LINKS = [
 
 function BrandMark({ compact = false }: { compact?: boolean }) {
   return (
-    <div className="inline-flex min-w-0 items-center gap-2 rounded-xl border px-2 py-1 sm:gap-2.5 sm:px-2.5">
+    <div className="inline-flex min-w-0 items-center gap-2 rounded-xl border px-2 py-1 sm:gap-2 sm:px-2">
       <span
-        className="flex h-8 w-8 shrink-0 items-center justify-center overflow-hidden rounded-lg sm:h-9 sm:w-9"
+        className="flex h-8 w-8 shrink-0 items-center justify-center overflow-hidden rounded-lg sm:h-8 sm:w-8"
         style={{
           background: 'color-mix(in srgb, var(--primary) 18%, var(--bg-card))',
           border: '1px solid var(--border-strong)',
@@ -49,11 +49,11 @@ function BrandMark({ compact = false }: { compact?: boolean }) {
           width={72}
           height={72}
           unoptimized
-          className="h-7 w-7 object-contain sm:h-8 sm:w-8"
+          className="h-7 w-7 object-contain"
         />
       </span>
-      <span className={compact ? 'block min-w-0' : 'hidden min-w-0 sm:block'}>
-        <span className="block whitespace-nowrap font-display text-base font-extrabold leading-tight sm:text-lg" style={{ color: 'var(--text-main)' }}>
+      <span className={compact ? 'block min-w-0' : 'hidden min-w-0 lg:block'}>
+        <span className="block whitespace-nowrap font-display text-sm font-extrabold leading-tight xl:text-base" style={{ color: 'var(--text-main)' }}>
           WC 2026
         </span>
         <span className="block whitespace-nowrap text-[10px] font-bold uppercase tracking-[0.14em] leading-tight" style={{ color: 'var(--text-muted)' }}>
@@ -81,13 +81,13 @@ export default function Navbar() {
         borderBottom: '1px solid var(--border)',
       }}
     >
-      <div className="mx-auto max-w-7xl px-3 sm:px-5 lg:px-6 xl:px-8">
-        <div className="flex min-h-14 flex-wrap items-center justify-between gap-x-3 gap-y-2 py-1.5">
+      <div className="mx-auto max-w-[1440px] px-2 sm:px-4 lg:px-5 xl:px-6">
+        <div className="flex min-h-14 flex-nowrap items-center justify-between gap-2 py-1.5">
           <Link href="/" className="focus-ring min-w-0 shrink-0 rounded-xl no-underline">
             <BrandMark />
           </Link>
 
-          <nav className="hidden min-w-0 flex-1 items-center justify-center gap-1 overflow-x-auto scrollbar-hide xl:flex">
+          <nav className="hidden min-w-0 flex-1 items-center justify-center gap-0.5 xl:flex">
             {NAV_LINKS.map((link) => {
               const isActive = pathname === link.href || (link.href !== '/' && pathname.startsWith(link.href))
               const Icon = link.icon
@@ -95,7 +95,7 @@ export default function Navbar() {
                 <Link
                   key={link.href}
                   href={link.href}
-                  className="focus-ring inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-2 text-[13px] font-semibold no-underline transition-all"
+                  className="focus-ring inline-flex items-center gap-1 rounded-lg border px-2 py-1.5 text-[12px] font-semibold no-underline transition-all"
                   style={{
                     color: isActive ? 'var(--text-main)' : 'var(--text-muted)',
                     background: isActive ? 'color-mix(in srgb, var(--primary) 15%, transparent)' : 'transparent',
@@ -114,6 +114,7 @@ export default function Navbar() {
               <Button
                 aria-label="Tema dəyiş"
                 className="focus-ring"
+                size="small"
                 icon={<ThemeIcon />}
                 onClick={toggleThemeMode}
                 style={{ color: 'var(--text-main)', background: 'var(--bg-card)', borderColor: 'var(--border)' }}
@@ -121,6 +122,7 @@ export default function Navbar() {
             </Tooltip>
             <Button
               className="focus-ring xl:hidden"
+              size="small"
               icon={<MenuOutlined />}
               onClick={() => setDrawerOpen(true)}
               aria-label="Menyu"
