@@ -14,7 +14,7 @@ import MatchDetailClient from '@/app/matches/[id]/MatchDetailClient'
 import StadiumsClient from '@/app/stadiums/StadiumsClient'
 import StatsClient from '@/app/stats/StatsClient'
 import FavoritesClient from '@/app/favorites/FavoritesClient'
-import EmptyState from '@/components/ui/EmptyState'
+import ErrorBoundary from '@/src/ErrorBoundary'
 
 function normalizePath(pathname: string) {
   if (pathname.length > 1 && pathname.endsWith('/')) return pathname.slice(0, -1)
@@ -61,11 +61,7 @@ function RouteView({ path }: { path: string }) {
     return <MatchDetailClient id={route.id} />
   }
 
-  return (
-    <div className="max-w-4xl mx-auto px-4 py-12">
-      <EmptyState description="Səhifə tapılmadı" />
-    </div>
-  )
+  return <HomeClient />
 }
 
 export default function App() {
@@ -73,14 +69,16 @@ export default function App() {
 
   return (
     <Providers>
-      <div className="app-frame flex flex-col min-h-screen">
-        <Navbar />
-        <main className="flex-1 pb-24 md:pb-0">
-          <RouteView path={path} />
-        </main>
-        <Footer />
-        <MobileNav />
-      </div>
+      <ErrorBoundary>
+        <div className="app-frame flex min-h-screen flex-col">
+          <Navbar />
+          <main className="flex-1 pb-24 md:pb-0">
+            <RouteView path={path} />
+          </main>
+          <Footer />
+          <MobileNav />
+        </div>
+      </ErrorBoundary>
     </Providers>
   )
 }
