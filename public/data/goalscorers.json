@@ -1,0 +1,17 @@
+[
+  {
+    "goals": 0,
+    "assists": 0,
+    "played": 1,
+    "team": {
+      "id": 1443,
+      "name": "Argentina",
+      "logo": "https://cdn.worldcupapi.com/teams/1443.png"
+    },
+    "player": {
+      "id": 2170,
+      "name": "Lionel Messi",
+      "photo": "https://cdn.worldcupapi.com/players/8/8/a/8/88a839f2f6f1427879fc33ee4acf4f66.png"
+    }
+  }
+]

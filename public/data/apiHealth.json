@@ -1,0 +1,15 @@
+{
+  "status": "healthy",
+  "timestamp": "2026-06-09T13:13:32.151Z",
+  "uptime": 24015.528407071,
+  "version": "1.0.5",
+  "environment": "production",
+  "database": {
+    "status": "connected",
+    "name": "worldcup2026"
+  },
+  "memory": {
+    "used": "45 MB",
+    "total": "105 MB"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "source": {
+    "base": "http://worldcup26.ir:3050",
+    "extra": "https://api.worldcupapi.com"
+  },
+  "syncedAt": "2026-06-09T13:12:55.371Z",
+  "files": {
+    "teams": "teams.json",
+    "groups": "groups.json",
+    "games": "games.json",
+    "stadiums": "stadiums.json",
+    "extraFixtures": "extraFixtures.json",
+    "liveScores": "liveScores.json",
+    "goalscorers": "goalscorers.json",
+    "cards": "cards.json",
+    "squads": "squads.json",
+    "matchDetails": "matchDetails.json",
+    "commentary": "commentary.json",
+    "headToHead": "headToHead.json",
+    "gameDetails": "gameDetails.json",
+    "apiHealth": "apiHealth.json"
+  }
+}

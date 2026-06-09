@@ -1,0 +1,2602 @@
+[
+  {
+    "round": "1",
+    "date": "2026-06-11",
+    "time": "19:00:00",
+    "home": {
+      "name": "Mexico",
+      "logo": "https://cdn.worldcupapi.com/teams/1450.png",
+      "id": 1450
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "South Africa",
+      "logo": "https://cdn.worldcupapi.com/teams/2767.png",
+      "id": 2767
+    },
+    "odds": {
+      "pre": {
+        "1": 1.54,
+        "2": 7,
+        "X": 4.3
+      }
+    },
+    "location": "Estadio Azteca, Mexico City",
+    "id": 1825339
+  },
+  {
+    "round": "1",
+    "date": "2026-06-12",
+    "time": "02:00:00",
+    "home": {
+      "name": "South Korea",
+      "logo": "https://cdn.worldcupapi.com/teams/1452.png",
+      "id": 1452
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "Czech Republic",
+      "logo": "https://cdn.worldcupapi.com/teams/1722.png",
+      "id": 1722
+    },
+    "odds": {
+      "pre": {
+        "1": 2.7,
+        "2": 2.88,
+        "X": 3.25
+      }
+    },
+    "location": "Estadio Akron, Zapopan",
+    "id": 1850052
+  },
+  {
+    "round": "1",
+    "date": "2026-06-12",
+    "time": "19:00:00",
+    "home": {
+      "name": "Canada",
+      "logo": "https://cdn.worldcupapi.com/teams/1674.png",
+      "id": 1674
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Bosnia and Herzegovina",
+      "logo": "https://cdn.worldcupapi.com/teams/2686.png",
+      "id": 2686
+    },
+    "odds": {
+      "pre": {
+        "1": 2.23,
+        "2": 3.7,
+        "X": 3.6
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1850055
+  },
+  {
+    "round": "1",
+    "date": "2026-06-13",
+    "time": "01:00:00",
+    "home": {
+      "name": "USA",
+      "logo": "https://cdn.worldcupapi.com/teams/1849.png",
+      "id": 1849
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "Paraguay",
+      "logo": "https://cdn.worldcupapi.com/teams/4040.png",
+      "id": 4040
+    },
+    "odds": {
+      "pre": {
+        "1": 2,
+        "2": 3.9,
+        "X": 3.75
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1825340
+  },
+  {
+    "round": "1",
+    "date": "2026-06-13",
+    "time": "19:00:00",
+    "home": {
+      "name": "Qatar",
+      "logo": "https://cdn.worldcupapi.com/teams/1427.png",
+      "id": 1427
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Switzerland",
+      "logo": "https://cdn.worldcupapi.com/teams/208.png",
+      "id": 208
+    },
+    "odds": {
+      "pre": {
+        "1": 10,
+        "2": 1.4,
+        "X": 5.8
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1825343
+  },
+  {
+    "round": "1",
+    "date": "2026-06-13",
+    "time": "22:00:00",
+    "home": {
+      "name": "Brazil",
+      "logo": "https://cdn.worldcupapi.com/teams/1448.png",
+      "id": 1448
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Morocco",
+      "logo": "https://cdn.worldcupapi.com/teams/1435.png",
+      "id": 1435
+    },
+    "odds": {
+      "pre": {
+        "1": 1.6,
+        "2": 6,
+        "X": 4.2
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1825341
+  },
+  {
+    "round": "1",
+    "date": "2026-06-14",
+    "time": "01:00:00",
+    "home": {
+      "name": "Haiti",
+      "logo": "https://cdn.worldcupapi.com/teams/2777.png",
+      "id": 2777
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Scotland",
+      "logo": "https://cdn.worldcupapi.com/teams/1741.png",
+      "id": 1741
+    },
+    "odds": {
+      "pre": {
+        "1": 8.5,
+        "2": 1.4,
+        "X": 5.25
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1825342
+  },
+  {
+    "round": "1",
+    "date": "2026-06-14",
+    "time": "04:00:00",
+    "home": {
+      "name": "Australia",
+      "logo": "https://cdn.worldcupapi.com/teams/1440.png",
+      "id": 1440
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "Turkey",
+      "logo": "https://cdn.worldcupapi.com/teams/1744.png",
+      "id": 1744
+    },
+    "odds": {
+      "pre": {
+        "1": 5.25,
+        "2": 1.71,
+        "X": 3.8
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1850058
+  },
+  {
+    "round": "1",
+    "date": "2026-06-14",
+    "time": "17:00:00",
+    "home": {
+      "name": "Germany",
+      "logo": "https://cdn.worldcupapi.com/teams/1449.png",
+      "id": 1449
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Curacao",
+      "logo": "https://cdn.worldcupapi.com/teams/2732.png",
+      "id": 2732
+    },
+    "odds": {
+      "pre": {
+        "1": 1.03,
+        "2": 91,
+        "X": 21
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1825344
+  },
+  {
+    "round": "1",
+    "date": "2026-06-14",
+    "time": "20:00:00",
+    "home": {
+      "name": "Netherlands",
+      "logo": "https://cdn.worldcupapi.com/teams/1649.png",
+      "id": 1649
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Japan",
+      "logo": "https://cdn.worldcupapi.com/teams/1458.png",
+      "id": 1458
+    },
+    "odds": {
+      "pre": {
+        "1": 2,
+        "2": 3.75,
+        "X": 3.75
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1825346
+  },
+  {
+    "round": "1",
+    "date": "2026-06-14",
+    "time": "23:00:00",
+    "home": {
+      "name": "Ivory Coast",
+      "logo": "https://cdn.worldcupapi.com/teams/1628.png",
+      "id": 1628
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Ecuador",
+      "logo": "https://cdn.worldcupapi.com/teams/1847.png",
+      "id": 1847
+    },
+    "odds": {
+      "pre": {
+        "1": 3.4,
+        "2": 2.45,
+        "X": 3.25
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1825345
+  },
+  {
+    "round": "1",
+    "date": "2026-06-15",
+    "time": "02:00:00",
+    "home": {
+      "name": "Sweden",
+      "logo": "https://cdn.worldcupapi.com/teams/1451.png",
+      "id": 1451
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Tunisia",
+      "logo": "https://cdn.worldcupapi.com/teams/1455.png",
+      "id": 1455
+    },
+    "odds": {
+      "pre": {
+        "1": 1.91,
+        "2": 4.33,
+        "X": 3.5
+      }
+    },
+    "location": "Estadio BBVA, Guadalupe",
+    "id": 1850061
+  },
+  {
+    "round": "1",
+    "date": "2026-06-15",
+    "time": "16:00:00",
+    "home": {
+      "name": "Spain",
+      "logo": "https://cdn.worldcupapi.com/teams/1438.png",
+      "id": 1438
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Cape Verde",
+      "logo": "https://cdn.worldcupapi.com/teams/1608.png",
+      "id": 1608
+    },
+    "odds": {
+      "pre": {
+        "1": 1.1,
+        "2": 36,
+        "X": 17
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1825350
+  },
+  {
+    "round": "1",
+    "date": "2026-06-15",
+    "time": "19:00:00",
+    "home": {
+      "name": "Belgium",
+      "logo": "https://cdn.worldcupapi.com/teams/1453.png",
+      "id": 1453
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "Egypt",
+      "logo": "https://cdn.worldcupapi.com/teams/215.png",
+      "id": 215
+    },
+    "odds": {
+      "pre": {
+        "1": 1.67,
+        "2": 5.7,
+        "X": 4.5
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1825347
+  },
+  {
+    "round": "1",
+    "date": "2026-06-15",
+    "time": "22:00:00",
+    "home": {
+      "name": "Saudi Arabia",
+      "logo": "https://cdn.worldcupapi.com/teams/1432.png",
+      "id": 1432
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Uruguay",
+      "logo": "https://cdn.worldcupapi.com/teams/1434.png",
+      "id": 1434
+    },
+    "odds": {
+      "pre": {
+        "1": 6.5,
+        "2": 1.62,
+        "X": 4.5
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1825349
+  },
+  {
+    "round": "1",
+    "date": "2026-06-16",
+    "time": "01:00:00",
+    "home": {
+      "name": "Iran",
+      "logo": "https://cdn.worldcupapi.com/teams/1436.png",
+      "id": 1436
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "New Zealand",
+      "logo": "https://cdn.worldcupapi.com/teams/5345.png",
+      "id": 5345
+    },
+    "odds": {
+      "pre": {
+        "1": 1.75,
+        "2": 5.5,
+        "X": 5
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1825348
+  },
+  {
+    "round": "1",
+    "date": "2026-06-16",
+    "time": "19:00:00",
+    "home": {
+      "name": "France",
+      "logo": "https://cdn.worldcupapi.com/teams/1439.png",
+      "id": 1439
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "Senegal",
+      "logo": "https://cdn.worldcupapi.com/teams/1460.png",
+      "id": 1460
+    },
+    "odds": {
+      "pre": {
+        "1": 1.44,
+        "2": 7.7,
+        "X": 4.75
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1825353
+  },
+  {
+    "round": "1",
+    "date": "2026-06-16",
+    "time": "22:00:00",
+    "home": {
+      "name": "Iraq",
+      "logo": "https://cdn.worldcupapi.com/teams/1715.png",
+      "id": 1715
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "Norway",
+      "logo": "https://cdn.worldcupapi.com/teams/2677.png",
+      "id": 2677
+    },
+    "odds": {
+      "pre": {
+        "1": 9,
+        "2": 1.4,
+        "X": 5.25
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1850064
+  },
+  {
+    "round": "1",
+    "date": "2026-06-17",
+    "time": "01:00:00",
+    "home": {
+      "name": "Argentina",
+      "logo": "https://cdn.worldcupapi.com/teams/1443.png",
+      "id": 1443
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Algeria",
+      "logo": "https://cdn.worldcupapi.com/teams/1528.png",
+      "id": 1528
+    },
+    "odds": {
+      "pre": {
+        "1": 1.4,
+        "2": 9,
+        "X": 5
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1825351
+  },
+  {
+    "round": "1",
+    "date": "2026-06-17",
+    "time": "04:00:00",
+    "home": {
+      "name": "Austria",
+      "logo": "https://cdn.worldcupapi.com/teams/2684.png",
+      "id": 2684
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Jordan",
+      "logo": "https://cdn.worldcupapi.com/teams/1790.png",
+      "id": 1790
+    },
+    "odds": {
+      "pre": {
+        "1": 1.36,
+        "2": 9.3,
+        "X": 5.25
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1825352
+  },
+  {
+    "round": "1",
+    "date": "2026-06-17",
+    "time": "17:00:00",
+    "home": {
+      "name": "Portugal",
+      "logo": "https://cdn.worldcupapi.com/teams/1437.png",
+      "id": 1437
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "DR Congo",
+      "logo": "https://cdn.worldcupapi.com/teams/2752.png",
+      "id": 2752
+    },
+    "odds": {
+      "pre": {
+        "1": 1.33,
+        "2": 11,
+        "X": 5.5
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1850067
+  },
+  {
+    "round": "1",
+    "date": "2026-06-17",
+    "time": "20:00:00",
+    "home": {
+      "name": "England",
+      "logo": "https://cdn.worldcupapi.com/teams/1456.png",
+      "id": 1456
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "Croatia",
+      "logo": "https://cdn.worldcupapi.com/teams/211.png",
+      "id": 211
+    },
+    "odds": {
+      "pre": {
+        "1": 1.73,
+        "2": 5,
+        "X": 4
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1825354
+  },
+  {
+    "round": "1",
+    "date": "2026-06-17",
+    "time": "23:00:00",
+    "home": {
+      "name": "Ghana",
+      "logo": "https://cdn.worldcupapi.com/teams/214.png",
+      "id": 214
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "Panama",
+      "logo": "https://cdn.worldcupapi.com/teams/1454.png",
+      "id": 1454
+    },
+    "odds": {
+      "pre": {
+        "1": 2,
+        "2": 3.75,
+        "X": 3.8
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1825355
+  },
+  {
+    "round": "1",
+    "date": "2026-06-18",
+    "time": "02:00:00",
+    "home": {
+      "name": "Uzbekistan",
+      "logo": "https://cdn.worldcupapi.com/teams/1776.png",
+      "id": 1776
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "Colombia",
+      "logo": "https://cdn.worldcupapi.com/teams/1457.png",
+      "id": 1457
+    },
+    "odds": {
+      "pre": {
+        "1": 7,
+        "2": 1.38,
+        "X": 4.5
+      }
+    },
+    "location": "Estadio Azteca, Mexico City",
+    "id": 1825356
+  },
+  {
+    "round": "2",
+    "date": "2026-06-18",
+    "time": "16:00:00",
+    "home": {
+      "name": "Czech Republic",
+      "logo": "https://cdn.worldcupapi.com/teams/1722.png",
+      "id": 1722
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "South Africa",
+      "logo": "https://cdn.worldcupapi.com/teams/2767.png",
+      "id": 2767
+    },
+    "odds": {
+      "pre": {
+        "1": 1.95,
+        "2": 4,
+        "X": 3.2
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1850053
+  },
+  {
+    "round": "2",
+    "date": "2026-06-18",
+    "time": "19:00:00",
+    "home": {
+      "name": "Switzerland",
+      "logo": "https://cdn.worldcupapi.com/teams/208.png",
+      "id": 208
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Bosnia and Herzegovina",
+      "logo": "https://cdn.worldcupapi.com/teams/2686.png",
+      "id": 2686
+    },
+    "odds": {
+      "pre": {
+        "1": 1.53,
+        "2": 5.5,
+        "X": 4
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1850056
+  },
+  {
+    "round": "2",
+    "date": "2026-06-18",
+    "time": "22:00:00",
+    "home": {
+      "name": "Canada",
+      "logo": "https://cdn.worldcupapi.com/teams/1674.png",
+      "id": 1674
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Qatar",
+      "logo": "https://cdn.worldcupapi.com/teams/1427.png",
+      "id": 1427
+    },
+    "odds": {
+      "pre": {
+        "1": 1.57,
+        "2": 7.5,
+        "X": 4.25
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1825357
+  },
+  {
+    "round": "2",
+    "date": "2026-06-19",
+    "time": "01:00:00",
+    "home": {
+      "name": "Mexico",
+      "logo": "https://cdn.worldcupapi.com/teams/1450.png",
+      "id": 1450
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "South Korea",
+      "logo": "https://cdn.worldcupapi.com/teams/1452.png",
+      "id": 1452
+    },
+    "odds": {
+      "pre": {
+        "1": 1.95,
+        "2": 4.5,
+        "X": 3.7
+      }
+    },
+    "location": "Estadio Akron, Zapopan",
+    "id": 1825358
+  },
+  {
+    "round": "2",
+    "date": "2026-06-19",
+    "time": "19:00:00",
+    "home": {
+      "name": "USA",
+      "logo": "https://cdn.worldcupapi.com/teams/1849.png",
+      "id": 1849
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "Australia",
+      "logo": "https://cdn.worldcupapi.com/teams/1440.png",
+      "id": 1440
+    },
+    "odds": {
+      "pre": {
+        "1": 1.85,
+        "2": 5,
+        "X": 3.85
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1825361
+  },
+  {
+    "round": "2",
+    "date": "2026-06-19",
+    "time": "22:00:00",
+    "home": {
+      "name": "Scotland",
+      "logo": "https://cdn.worldcupapi.com/teams/1741.png",
+      "id": 1741
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Morocco",
+      "logo": "https://cdn.worldcupapi.com/teams/1435.png",
+      "id": 1435
+    },
+    "odds": {
+      "pre": {
+        "1": 3.8,
+        "2": 2.2,
+        "X": 3.45
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1825360
+  },
+  {
+    "round": "2",
+    "date": "2026-06-20",
+    "time": "00:30:00",
+    "home": {
+      "name": "Brazil",
+      "logo": "https://cdn.worldcupapi.com/teams/1448.png",
+      "id": 1448
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Haiti",
+      "logo": "https://cdn.worldcupapi.com/teams/2777.png",
+      "id": 2777
+    },
+    "odds": {
+      "pre": {
+        "1": 1.09,
+        "2": 51,
+        "X": 15
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1825359
+  },
+  {
+    "round": "2",
+    "date": "2026-06-20",
+    "time": "03:00:00",
+    "home": {
+      "name": "Turkey",
+      "logo": "https://cdn.worldcupapi.com/teams/1744.png",
+      "id": 1744
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "Paraguay",
+      "logo": "https://cdn.worldcupapi.com/teams/4040.png",
+      "id": 4040
+    },
+    "odds": {
+      "pre": {
+        "1": 2.3,
+        "2": 3.65,
+        "X": 3.35
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1850059
+  },
+  {
+    "round": "2",
+    "date": "2026-06-20",
+    "time": "17:00:00",
+    "home": {
+      "name": "Netherlands",
+      "logo": "https://cdn.worldcupapi.com/teams/1649.png",
+      "id": 1649
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Sweden",
+      "logo": "https://cdn.worldcupapi.com/teams/1451.png",
+      "id": 1451
+    },
+    "odds": {
+      "pre": {
+        "1": 1.6,
+        "2": 5,
+        "X": 4.1
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1850062
+  },
+  {
+    "round": "2",
+    "date": "2026-06-20",
+    "time": "20:00:00",
+    "home": {
+      "name": "Germany",
+      "logo": "https://cdn.worldcupapi.com/teams/1449.png",
+      "id": 1449
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Ivory Coast",
+      "logo": "https://cdn.worldcupapi.com/teams/1628.png",
+      "id": 1628
+    },
+    "odds": {
+      "pre": {
+        "1": 1.57,
+        "2": 6.5,
+        "X": 4.5
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1825363
+  },
+  {
+    "round": "2",
+    "date": "2026-06-21",
+    "time": "00:00:00",
+    "home": {
+      "name": "Ecuador",
+      "logo": "https://cdn.worldcupapi.com/teams/1847.png",
+      "id": 1847
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Curacao",
+      "logo": "https://cdn.worldcupapi.com/teams/2732.png",
+      "id": 2732
+    },
+    "odds": {
+      "pre": {
+        "1": 1.27,
+        "2": 17,
+        "X": 6.25
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1825362
+  },
+  {
+    "round": "2",
+    "date": "2026-06-21",
+    "time": "04:00:00",
+    "home": {
+      "name": "Tunisia",
+      "logo": "https://cdn.worldcupapi.com/teams/1455.png",
+      "id": 1455
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Japan",
+      "logo": "https://cdn.worldcupapi.com/teams/1458.png",
+      "id": 1458
+    },
+    "odds": {
+      "pre": {
+        "1": 4.75,
+        "2": 1.95,
+        "X": 3.65
+      }
+    },
+    "location": "Estadio BBVA, Guadalupe",
+    "id": 1825364
+  },
+  {
+    "round": "2",
+    "date": "2026-06-21",
+    "time": "16:00:00",
+    "home": {
+      "name": "Spain",
+      "logo": "https://cdn.worldcupapi.com/teams/1438.png",
+      "id": 1438
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Saudi Arabia",
+      "logo": "https://cdn.worldcupapi.com/teams/1432.png",
+      "id": 1432
+    },
+    "odds": {
+      "pre": {
+        "1": 1.16,
+        "2": 26,
+        "X": 9
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1825367
+  },
+  {
+    "round": "2",
+    "date": "2026-06-21",
+    "time": "19:00:00",
+    "home": {
+      "name": "Belgium",
+      "logo": "https://cdn.worldcupapi.com/teams/1453.png",
+      "id": 1453
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "Iran",
+      "logo": "https://cdn.worldcupapi.com/teams/1436.png",
+      "id": 1436
+    },
+    "odds": {
+      "pre": {
+        "1": 1.53,
+        "2": 8,
+        "X": 4.5
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1825365
+  },
+  {
+    "round": "2",
+    "date": "2026-06-21",
+    "time": "22:00:00",
+    "home": {
+      "name": "Uruguay",
+      "logo": "https://cdn.worldcupapi.com/teams/1434.png",
+      "id": 1434
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Cape Verde",
+      "logo": "https://cdn.worldcupapi.com/teams/1608.png",
+      "id": 1608
+    },
+    "odds": {
+      "pre": {
+        "1": 1.53,
+        "2": 8,
+        "X": 4.5
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1825368
+  },
+  {
+    "round": "2",
+    "date": "2026-06-22",
+    "time": "01:00:00",
+    "home": {
+      "name": "New Zealand",
+      "logo": "https://cdn.worldcupapi.com/teams/5345.png",
+      "id": 5345
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "Egypt",
+      "logo": "https://cdn.worldcupapi.com/teams/215.png",
+      "id": 215
+    },
+    "odds": {
+      "pre": {
+        "1": 5.5,
+        "2": 1.75,
+        "X": 3.9
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1825366
+  },
+  {
+    "round": "2",
+    "date": "2026-06-22",
+    "time": "17:00:00",
+    "home": {
+      "name": "Argentina",
+      "logo": "https://cdn.worldcupapi.com/teams/1443.png",
+      "id": 1443
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Austria",
+      "logo": "https://cdn.worldcupapi.com/teams/2684.png",
+      "id": 2684
+    },
+    "odds": {
+      "pre": {
+        "1": 1.73,
+        "2": 5.5,
+        "X": 4
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1825369
+  },
+  {
+    "round": "2",
+    "date": "2026-06-22",
+    "time": "21:00:00",
+    "home": {
+      "name": "France",
+      "logo": "https://cdn.worldcupapi.com/teams/1439.png",
+      "id": 1439
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "Iraq",
+      "logo": "https://cdn.worldcupapi.com/teams/1715.png",
+      "id": 1715
+    },
+    "odds": {
+      "pre": {
+        "1": 1.12,
+        "2": 19,
+        "X": 7
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1850065
+  },
+  {
+    "round": "2",
+    "date": "2026-06-23",
+    "time": "00:00:00",
+    "home": {
+      "name": "Norway",
+      "logo": "https://cdn.worldcupapi.com/teams/2677.png",
+      "id": 2677
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "Senegal",
+      "logo": "https://cdn.worldcupapi.com/teams/1460.png",
+      "id": 1460
+    },
+    "odds": {
+      "pre": {
+        "1": 2.15,
+        "2": 3.75,
+        "X": 3.7
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1825371
+  },
+  {
+    "round": "2",
+    "date": "2026-06-23",
+    "time": "03:00:00",
+    "home": {
+      "name": "Jordan",
+      "logo": "https://cdn.worldcupapi.com/teams/1790.png",
+      "id": 1790
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Algeria",
+      "logo": "https://cdn.worldcupapi.com/teams/1528.png",
+      "id": 1528
+    },
+    "odds": {
+      "pre": {
+        "1": 5.75,
+        "2": 1.73,
+        "X": 4
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1825370
+  },
+  {
+    "round": "2",
+    "date": "2026-06-23",
+    "time": "17:00:00",
+    "home": {
+      "name": "Portugal",
+      "logo": "https://cdn.worldcupapi.com/teams/1437.png",
+      "id": 1437
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "Uzbekistan",
+      "logo": "https://cdn.worldcupapi.com/teams/1776.png",
+      "id": 1776
+    },
+    "odds": {
+      "pre": {
+        "1": 1.25,
+        "2": 17,
+        "X": 7
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1850068
+  },
+  {
+    "round": "2",
+    "date": "2026-06-23",
+    "time": "20:00:00",
+    "home": {
+      "name": "England",
+      "logo": "https://cdn.worldcupapi.com/teams/1456.png",
+      "id": 1456
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "Ghana",
+      "logo": "https://cdn.worldcupapi.com/teams/214.png",
+      "id": 214
+    },
+    "odds": {
+      "pre": {
+        "1": 1.37,
+        "2": 10.5,
+        "X": 5.5
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1825372
+  },
+  {
+    "round": "2",
+    "date": "2026-06-23",
+    "time": "23:00:00",
+    "home": {
+      "name": "Panama",
+      "logo": "https://cdn.worldcupapi.com/teams/1454.png",
+      "id": 1454
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "Croatia",
+      "logo": "https://cdn.worldcupapi.com/teams/211.png",
+      "id": 211
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1825373
+  },
+  {
+    "round": "2",
+    "date": "2026-06-24",
+    "time": "02:00:00",
+    "home": {
+      "name": "Colombia",
+      "logo": "https://cdn.worldcupapi.com/teams/1457.png",
+      "id": 1457
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "DR Congo",
+      "logo": "https://cdn.worldcupapi.com/teams/2752.png",
+      "id": 2752
+    },
+    "odds": {
+      "pre": {
+        "1": 1.5,
+        "2": 6.5,
+        "X": 3.9
+      }
+    },
+    "location": "Estadio Akron, Zapopan",
+    "id": 1852069
+  },
+  {
+    "round": "3",
+    "date": "2026-06-24",
+    "time": "19:00:00",
+    "home": {
+      "name": "Switzerland",
+      "logo": "https://cdn.worldcupapi.com/teams/208.png",
+      "id": 208
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Canada",
+      "logo": "https://cdn.worldcupapi.com/teams/1674.png",
+      "id": 1674
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1825378
+  },
+  {
+    "round": "3",
+    "date": "2026-06-24",
+    "time": "19:00:00",
+    "home": {
+      "name": "Bosnia and Herzegovina",
+      "logo": "https://cdn.worldcupapi.com/teams/2686.png",
+      "id": 2686
+    },
+    "group_id": 4287,
+    "away": {
+      "name": "Qatar",
+      "logo": "https://cdn.worldcupapi.com/teams/1427.png",
+      "id": 1427
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1850057
+  },
+  {
+    "round": "3",
+    "date": "2026-06-24",
+    "time": "22:00:00",
+    "home": {
+      "name": "Morocco",
+      "logo": "https://cdn.worldcupapi.com/teams/1435.png",
+      "id": 1435
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Haiti",
+      "logo": "https://cdn.worldcupapi.com/teams/2777.png",
+      "id": 2777
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1825375
+  },
+  {
+    "round": "3",
+    "date": "2026-06-24",
+    "time": "22:00:00",
+    "home": {
+      "name": "Scotland",
+      "logo": "https://cdn.worldcupapi.com/teams/1741.png",
+      "id": 1741
+    },
+    "group_id": 4288,
+    "away": {
+      "name": "Brazil",
+      "logo": "https://cdn.worldcupapi.com/teams/1448.png",
+      "id": 1448
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1825376
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "01:00:00",
+    "home": {
+      "name": "South Africa",
+      "logo": "https://cdn.worldcupapi.com/teams/2767.png",
+      "id": 2767
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "South Korea",
+      "logo": "https://cdn.worldcupapi.com/teams/1452.png",
+      "id": 1452
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio BBVA, Guadalupe",
+    "id": 1825377
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "01:00:00",
+    "home": {
+      "name": "Czech Republic",
+      "logo": "https://cdn.worldcupapi.com/teams/1722.png",
+      "id": 1722
+    },
+    "group_id": 4286,
+    "away": {
+      "name": "Mexico",
+      "logo": "https://cdn.worldcupapi.com/teams/1450.png",
+      "id": 1450
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio Azteca, Mexico City",
+    "id": 1850054
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "20:00:00",
+    "home": {
+      "name": "Curacao",
+      "logo": "https://cdn.worldcupapi.com/teams/2732.png",
+      "id": 2732
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Ivory Coast",
+      "logo": "https://cdn.worldcupapi.com/teams/1628.png",
+      "id": 1628
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1825379
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "20:00:00",
+    "home": {
+      "name": "Ecuador",
+      "logo": "https://cdn.worldcupapi.com/teams/1847.png",
+      "id": 1847
+    },
+    "group_id": 4290,
+    "away": {
+      "name": "Germany",
+      "logo": "https://cdn.worldcupapi.com/teams/1449.png",
+      "id": 1449
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1825380
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "23:00:00",
+    "home": {
+      "name": "Tunisia",
+      "logo": "https://cdn.worldcupapi.com/teams/1455.png",
+      "id": 1455
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Netherlands",
+      "logo": "https://cdn.worldcupapi.com/teams/1649.png",
+      "id": 1649
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1825382
+  },
+  {
+    "round": "3",
+    "date": "2026-06-25",
+    "time": "23:00:00",
+    "home": {
+      "name": "Japan",
+      "logo": "https://cdn.worldcupapi.com/teams/1458.png",
+      "id": 1458
+    },
+    "group_id": 4291,
+    "away": {
+      "name": "Sweden",
+      "logo": "https://cdn.worldcupapi.com/teams/1451.png",
+      "id": 1451
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1850063
+  },
+  {
+    "round": "3",
+    "date": "2026-06-26",
+    "time": "02:00:00",
+    "home": {
+      "name": "Paraguay",
+      "logo": "https://cdn.worldcupapi.com/teams/4040.png",
+      "id": 4040
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "Australia",
+      "logo": "https://cdn.worldcupapi.com/teams/1440.png",
+      "id": 1440
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1825381
+  },
+  {
+    "round": "3",
+    "date": "2026-06-26",
+    "time": "02:00:00",
+    "home": {
+      "name": "Turkey",
+      "logo": "https://cdn.worldcupapi.com/teams/1744.png",
+      "id": 1744
+    },
+    "group_id": 4289,
+    "away": {
+      "name": "USA",
+      "logo": "https://cdn.worldcupapi.com/teams/1849.png",
+      "id": 1849
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1850060
+  },
+  {
+    "round": "3",
+    "date": "2026-06-26",
+    "time": "19:00:00",
+    "home": {
+      "name": "Norway",
+      "logo": "https://cdn.worldcupapi.com/teams/2677.png",
+      "id": 2677
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "France",
+      "logo": "https://cdn.worldcupapi.com/teams/1439.png",
+      "id": 1439
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1825386
+  },
+  {
+    "round": "3",
+    "date": "2026-06-26",
+    "time": "19:00:00",
+    "home": {
+      "name": "Senegal",
+      "logo": "https://cdn.worldcupapi.com/teams/1460.png",
+      "id": 1460
+    },
+    "group_id": 4297,
+    "away": {
+      "name": "Iraq",
+      "logo": "https://cdn.worldcupapi.com/teams/1715.png",
+      "id": 1715
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1850066
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "00:00:00",
+    "home": {
+      "name": "Cape Verde",
+      "logo": "https://cdn.worldcupapi.com/teams/1608.png",
+      "id": 1608
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Saudi Arabia",
+      "logo": "https://cdn.worldcupapi.com/teams/1432.png",
+      "id": 1432
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1825383
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "00:00:00",
+    "home": {
+      "name": "Uruguay",
+      "logo": "https://cdn.worldcupapi.com/teams/1434.png",
+      "id": 1434
+    },
+    "group_id": 4293,
+    "away": {
+      "name": "Spain",
+      "logo": "https://cdn.worldcupapi.com/teams/1438.png",
+      "id": 1438
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio Akron, Zapopan",
+    "id": 1825387
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "03:00:00",
+    "home": {
+      "name": "Egypt",
+      "logo": "https://cdn.worldcupapi.com/teams/215.png",
+      "id": 215
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "Iran",
+      "logo": "https://cdn.worldcupapi.com/teams/1436.png",
+      "id": 1436
+    },
+    "odds": {
+      "pre": {
+        "1": 2.15,
+        "2": 3.15,
+        "X": 2.87
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1825384
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "03:00:00",
+    "home": {
+      "name": "New Zealand",
+      "logo": "https://cdn.worldcupapi.com/teams/5345.png",
+      "id": 5345
+    },
+    "group_id": 4292,
+    "away": {
+      "name": "Belgium",
+      "logo": "https://cdn.worldcupapi.com/teams/1453.png",
+      "id": 1453
+    },
+    "odds": {
+      "pre": {
+        "1": 8,
+        "2": 1.28,
+        "X": 5
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1825385
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "21:00:00",
+    "home": {
+      "name": "Croatia",
+      "logo": "https://cdn.worldcupapi.com/teams/211.png",
+      "id": 211
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "Ghana",
+      "logo": "https://cdn.worldcupapi.com/teams/214.png",
+      "id": 214
+    },
+    "odds": {
+      "pre": {
+        "1": 1.65,
+        "2": 4.5,
+        "X": 3.3
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1825390
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "21:00:00",
+    "home": {
+      "name": "Panama",
+      "logo": "https://cdn.worldcupapi.com/teams/1454.png",
+      "id": 1454
+    },
+    "group_id": 4294,
+    "away": {
+      "name": "England",
+      "logo": "https://cdn.worldcupapi.com/teams/1456.png",
+      "id": 1456
+    },
+    "odds": {
+      "pre": {
+        "1": 8.25,
+        "2": 1.26,
+        "X": 5.25
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1825392
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "23:30:00",
+    "home": {
+      "name": "Colombia",
+      "logo": "https://cdn.worldcupapi.com/teams/1457.png",
+      "id": 1457
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "Portugal",
+      "logo": "https://cdn.worldcupapi.com/teams/1437.png",
+      "id": 1437
+    },
+    "odds": {
+      "pre": {
+        "1": 3.2,
+        "2": 2,
+        "X": 3.1
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1850069
+  },
+  {
+    "round": "3",
+    "date": "2026-06-27",
+    "time": "23:30:00",
+    "home": {
+      "name": "DR Congo",
+      "logo": "https://cdn.worldcupapi.com/teams/2752.png",
+      "id": 2752
+    },
+    "group_id": 4295,
+    "away": {
+      "name": "Uzbekistan",
+      "logo": "https://cdn.worldcupapi.com/teams/1776.png",
+      "id": 1776
+    },
+    "odds": {
+      "pre": {
+        "1": 2.25,
+        "2": 2.8,
+        "X": 3
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1852070
+  },
+  {
+    "round": "3",
+    "date": "2026-06-28",
+    "time": "02:00:00",
+    "home": {
+      "name": "Algeria",
+      "logo": "https://cdn.worldcupapi.com/teams/1528.png",
+      "id": 1528
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Austria",
+      "logo": "https://cdn.worldcupapi.com/teams/2684.png",
+      "id": 2684
+    },
+    "odds": {
+      "pre": {
+        "1": 3,
+        "2": 2.15,
+        "X": 3
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1825388
+  },
+  {
+    "round": "3",
+    "date": "2026-06-28",
+    "time": "02:00:00",
+    "home": {
+      "name": "Jordan",
+      "logo": "https://cdn.worldcupapi.com/teams/1790.png",
+      "id": 1790
+    },
+    "group_id": 4296,
+    "away": {
+      "name": "Argentina",
+      "logo": "https://cdn.worldcupapi.com/teams/1443.png",
+      "id": 1443
+    },
+    "odds": {
+      "pre": {
+        "1": 11,
+        "2": 1.18,
+        "X": 6
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1825391
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-28",
+    "time": "19:00:00",
+    "home": {
+      "name": "Runner-up Group A",
+      "logo": "https://cdn.worldcupapi.com/teams/6870.png",
+      "id": 6870
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group B",
+      "logo": "https://cdn.worldcupapi.com/teams/6871.png",
+      "id": 6871
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1853386
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-29",
+    "time": "17:00:00",
+    "home": {
+      "name": "Winner Group C",
+      "logo": "https://cdn.worldcupapi.com/teams/6868.png",
+      "id": 6868
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group F",
+      "logo": "https://cdn.worldcupapi.com/teams/6867.png",
+      "id": 6867
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1853394
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-29",
+    "time": "20:30:00",
+    "home": {
+      "name": "Winner Group E",
+      "logo": "https://cdn.worldcupapi.com/teams/6864.png",
+      "id": 6864
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group A/B/C/D/F",
+      "logo": "https://cdn.worldcupapi.com/teams/6887.png",
+      "id": 6887
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1853387
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-30",
+    "time": "01:00:00",
+    "home": {
+      "name": "Winner Group F",
+      "logo": "https://cdn.worldcupapi.com/teams/6860.png",
+      "id": 6860
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group C",
+      "logo": "https://cdn.worldcupapi.com/teams/6859.png",
+      "id": 6859
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio BBVA, Guadalupe",
+    "id": 1853388
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-30",
+    "time": "17:00:00",
+    "home": {
+      "name": "Runner-up Group E",
+      "logo": "https://cdn.worldcupapi.com/teams/6863.png",
+      "id": 6863
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group I",
+      "logo": "https://cdn.worldcupapi.com/teams/8585.png",
+      "id": 8585
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1853395
+  },
+  {
+    "round": "R32",
+    "date": "2026-06-30",
+    "time": "21:00:00",
+    "home": {
+      "name": "Winner Group I",
+      "logo": "https://cdn.worldcupapi.com/teams/8581.png",
+      "id": 8581
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group C/D/F/G/H",
+      "logo": "https://cdn.worldcupapi.com/teams/6865.png",
+      "id": 6865
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1853389
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-01",
+    "time": "01:00:00",
+    "home": {
+      "name": "Winner Group A",
+      "logo": "https://cdn.worldcupapi.com/teams/6858.png",
+      "id": 6858
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group C/E/F/H/I",
+      "logo": "https://cdn.worldcupapi.com/teams/6888.png",
+      "id": 6888
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio Azteca, Mexico City",
+    "id": 1853396
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-01",
+    "time": "16:00:00",
+    "home": {
+      "name": "Winner Group L",
+      "logo": "https://cdn.worldcupapi.com/teams/8584.png",
+      "id": 8584
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group E/H/I/J/K",
+      "logo": "https://cdn.worldcupapi.com/teams/6869.png",
+      "id": 6869
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1853397
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-01",
+    "time": "20:00:00",
+    "home": {
+      "name": "Winner Group G",
+      "logo": "https://cdn.worldcupapi.com/teams/7436.png",
+      "id": 7436
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group A/E/H/I/J",
+      "logo": "https://cdn.worldcupapi.com/teams/6857.png",
+      "id": 6857
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1853391
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-02",
+    "time": "00:00:00",
+    "home": {
+      "name": "Winner Group D",
+      "logo": "https://cdn.worldcupapi.com/teams/6866.png",
+      "id": 6866
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group B/E/F/I/J",
+      "logo": "https://cdn.worldcupapi.com/teams/6861.png",
+      "id": 6861
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Levi's Stadium, Santa Clara",
+    "id": 1853390
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-02",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner Group H",
+      "logo": "https://cdn.worldcupapi.com/teams/7437.png",
+      "id": 7437
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group J",
+      "logo": "https://cdn.worldcupapi.com/teams/8586.png",
+      "id": 8586
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1853393
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-02",
+    "time": "23:00:00",
+    "home": {
+      "name": "Runner-up Group K",
+      "logo": "https://cdn.worldcupapi.com/teams/8587.png",
+      "id": 8587
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group L",
+      "logo": "https://cdn.worldcupapi.com/teams/8588.png",
+      "id": 8588
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BMO Field, Toronto",
+    "id": 1853392
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-03",
+    "time": "03:00:00",
+    "home": {
+      "name": "Winner Group B",
+      "logo": "https://cdn.worldcupapi.com/teams/6856.png",
+      "id": 6856
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group E/F/G/I/J",
+      "logo": "https://cdn.worldcupapi.com/teams/6886.png",
+      "id": 6886
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1853398
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-03",
+    "time": "18:00:00",
+    "home": {
+      "name": "Runner-up Group D",
+      "logo": "https://cdn.worldcupapi.com/teams/6862.png",
+      "id": 6862
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group G",
+      "logo": "https://cdn.worldcupapi.com/teams/7438.png",
+      "id": 7438
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1853401
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-03",
+    "time": "22:00:00",
+    "home": {
+      "name": "Winner Group J",
+      "logo": "https://cdn.worldcupapi.com/teams/8582.png",
+      "id": 8582
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Runner-up Group H",
+      "logo": "https://cdn.worldcupapi.com/teams/7439.png",
+      "id": 7439
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1853399
+  },
+  {
+    "round": "R32",
+    "date": "2026-07-04",
+    "time": "01:30:00",
+    "home": {
+      "name": "Winner Group K",
+      "logo": "https://cdn.worldcupapi.com/teams/8583.png",
+      "id": 8583
+    },
+    "group_id": 0,
+    "away": {
+      "name": "3rd Group D/E/I/J/L",
+      "logo": "https://cdn.worldcupapi.com/teams/6889.png",
+      "id": 6889
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1853400
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-04",
+    "time": "17:00:00",
+    "home": {
+      "name": "Winner R32 Match 1",
+      "logo": "https://cdn.worldcupapi.com/teams/8589.png",
+      "id": 8589
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 3",
+      "logo": "https://cdn.worldcupapi.com/teams/8591.png",
+      "id": 8591
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "NRG Stadium, Houston",
+    "id": 1853403
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-04",
+    "time": "21:00:00",
+    "home": {
+      "name": "Winner R32 Match 2",
+      "logo": "https://cdn.worldcupapi.com/teams/8590.png",
+      "id": 8590
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 5",
+      "logo": "https://cdn.worldcupapi.com/teams/8593.png",
+      "id": 8593
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Lincoln Financial Field, Philadelphia",
+    "id": 1853402
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-05",
+    "time": "20:00:00",
+    "home": {
+      "name": "Winner R32 Match 4",
+      "logo": "https://cdn.worldcupapi.com/teams/8592.png",
+      "id": 8592
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 6",
+      "logo": "https://cdn.worldcupapi.com/teams/8594.png",
+      "id": 8594
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1853404
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-06",
+    "time": "00:00:00",
+    "home": {
+      "name": "Winner R32 Match 7",
+      "logo": "https://cdn.worldcupapi.com/teams/8595.png",
+      "id": 8595
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 8",
+      "logo": "https://cdn.worldcupapi.com/teams/8596.png",
+      "id": 8596
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Estadio Azteca, Mexico City",
+    "id": 1853405
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-06",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner R32 Match 11",
+      "logo": "https://cdn.worldcupapi.com/teams/8599.png",
+      "id": 8599
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 12",
+      "logo": "https://cdn.worldcupapi.com/teams/8600.png",
+      "id": 8600
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1853406
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-07",
+    "time": "00:00:00",
+    "home": {
+      "name": "Winner R32 Match 9",
+      "logo": "https://cdn.worldcupapi.com/teams/8597.png",
+      "id": 8597
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 10",
+      "logo": "https://cdn.worldcupapi.com/teams/8598.png",
+      "id": 8598
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Lumen Field, Seattle",
+    "id": 1853407
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-07",
+    "time": "16:00:00",
+    "home": {
+      "name": "Winner R32 Match 14",
+      "logo": "https://cdn.worldcupapi.com/teams/8602.png",
+      "id": 8602
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 16",
+      "logo": "https://cdn.worldcupapi.com/teams/8604.png",
+      "id": 8604
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1853408
+  },
+  {
+    "round": "R16",
+    "date": "2026-07-07",
+    "time": "20:00:00",
+    "home": {
+      "name": "Winner R32 Match 13",
+      "logo": "https://cdn.worldcupapi.com/teams/8601.png",
+      "id": 8601
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R32 Match 15",
+      "logo": "https://cdn.worldcupapi.com/teams/8603.png",
+      "id": 8603
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "BC Place, Vancouver",
+    "id": 1853409
+  },
+  {
+    "round": "QF",
+    "date": "2026-07-09",
+    "time": "20:00:00",
+    "home": {
+      "name": "Winner R16 Match 1",
+      "logo": "https://cdn.worldcupapi.com/teams/6872.png",
+      "id": 6872
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R16 Match 2",
+      "logo": "https://cdn.worldcupapi.com/teams/6873.png",
+      "id": 6873
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Gillette Stadium, Foxborough",
+    "id": 1853410
+  },
+  {
+    "round": "QF",
+    "date": "2026-07-10",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner R16 Match 5",
+      "logo": "https://cdn.worldcupapi.com/teams/6876.png",
+      "id": 6876
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R16 Match 6",
+      "logo": "https://cdn.worldcupapi.com/teams/6877.png",
+      "id": 6877
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "SoFi Stadium, Inglewood",
+    "id": 1853411
+  },
+  {
+    "round": "QF",
+    "date": "2026-07-11",
+    "time": "21:00:00",
+    "home": {
+      "name": "Winner R16 Match 3",
+      "logo": "https://cdn.worldcupapi.com/teams/6874.png",
+      "id": 6874
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R16 Match 4",
+      "logo": "https://cdn.worldcupapi.com/teams/6875.png",
+      "id": 6875
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1853412
+  },
+  {
+    "round": "QF",
+    "date": "2026-07-12",
+    "time": "01:00:00",
+    "home": {
+      "name": "Winner R16 Match 7",
+      "logo": "https://cdn.worldcupapi.com/teams/6878.png",
+      "id": 6878
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner R16 Match 8",
+      "logo": "https://cdn.worldcupapi.com/teams/6879.png",
+      "id": 6879
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Arrowhead Stadium, Kansas City",
+    "id": 1853413
+  },
+  {
+    "round": "SF",
+    "date": "2026-07-14",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner QF Match 1",
+      "logo": "https://cdn.worldcupapi.com/teams/6881.png",
+      "id": 6881
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner QF Match 2",
+      "logo": "https://cdn.worldcupapi.com/teams/6880.png",
+      "id": 6880
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "AT&T Stadium, Arlington",
+    "id": 1853414
+  },
+  {
+    "round": "SF",
+    "date": "2026-07-15",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner QF Match 3",
+      "logo": "https://cdn.worldcupapi.com/teams/6882.png",
+      "id": 6882
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner QF Match 4",
+      "logo": "https://cdn.worldcupapi.com/teams/6883.png",
+      "id": 6883
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Mercedes-Benz Stadium, Atlanta",
+    "id": 1853415
+  },
+  {
+    "round": "3PPO",
+    "date": "2026-07-18",
+    "time": "21:00:00",
+    "home": {
+      "name": "Loser SF1",
+      "logo": "https://cdn.worldcupapi.com/teams/6890.png",
+      "id": 6890
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Loser SF2",
+      "logo": "https://cdn.worldcupapi.com/teams/6891.png",
+      "id": 6891
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "Hard Rock Stadium, Miami Gardens",
+    "id": 1853416
+  },
+  {
+    "round": "F",
+    "date": "2026-07-19",
+    "time": "19:00:00",
+    "home": {
+      "name": "Winner SF1",
+      "logo": "https://cdn.worldcupapi.com/teams/6884.png",
+      "id": 6884
+    },
+    "group_id": 0,
+    "away": {
+      "name": "Winner SF2",
+      "logo": "https://cdn.worldcupapi.com/teams/6885.png",
+      "id": 6885
+    },
+    "odds": {
+      "pre": {
+        "1": null,
+        "2": null,
+        "X": null
+      }
+    },
+    "location": "MetLife Stadium, East Rutherford",
+    "id": 1853417
+  }
+]
